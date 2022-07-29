@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Paris, Italy",
+    "description": "Far far away, behind the word mountains, far from the countries",
+    "price": 50,
+    "rate": 5,
+    "day": 3,
+    "night": 4,
+    "area": "Cox-Bazar, BD",
+    "img": "https://i.ibb.co/Yc2qcF3/pic1.webp",
+    "img1": "https://i.ibb.co/Qn97fz4/hotel-1.webp"
+  },
+  {
+    "id": 2,
+    "title": "San Francisco, Singapore",
+    "description": "Far far away, behind the word mountains, far from the countries",
+    "price": 50,
+    "rate": 5,
+    "day": 3,
+    "night": 4,
+    "area": "Cox-Bazar, BD",
+    "img": "https://i.ibb.co/RNxMFqD/pic2.webp",
+    "img1": "https://i.ibb.co/gZcCfn7/hotel-2.webp"
+  },
+  {
+    "id": 3,
+    "title": "Tiger, UAS",
+    "description": "Far far away, behind the word mountains, far from the countries",
+    "price": 50,
+    "rate": 4,
+    "day": 3,
+    "night": 4,
+    "area": "Cox-Bazar, BD",
+    "img": "https://i.ibb.co/nmkpD32/pic3.webp",
+    "img1": "https://i.ibb.co/vDZKyHR/hotel-4.webp"
+  },
+  {
+    "id": 4,
+    "title": "Swimon, Hong Kong",
+    "description": "Far far away, behind the word mountains, far from the countries",
+    "price": 50,
+    "rate": 4,
+    "day": 3,
+    "night": 4,
+    "area": "Cox-Bazar, BD",
+    "img": "https://i.ibb.co/BtkZXW6/pic4.webp",
+    "img1": "https://i.ibb.co/nfHM5xh/hotel-3.webp"
+  },
+  {
+    "id": 5,
+    "title": "Luxury, Australia",
+    "description": "Far far away, behind the word mountains, far from the countries",
+    "price": 50,
+    "rate": 4,
+    "day": 5,
+    "night": 4,
+    "area": "Cox-Bazar, BD",
+    "img": "https://i.ibb.co/smx6psZ/pic5.webp",
+    "img1": "https://i.ibb.co/JRDp3Tc/hotel-5.webp"
+  },
+  {
+    "id": 6,
+    "title": "Lion, UK",
+    "description": "Far far away, behind the word mountains, far from the countries",
+    "price": 50,
+    "rate": 3,
+    "day": 3,
+    "night": 4,
+    "area": "Cox-Bazar, BD",
+    "img": "https://i.ibb.co/f8Q1qzs/pic7.webp",
+    "img1": "https://i.ibb.co/f8Q1qzs/pic7.webp"
+  },
+  {
+    "id": 7,
+    "title": "Lion, UK",
+    "description": "Far far away, behind the word mountains, far from the countries",
+    "price": 50,
+    "rate": 3,
+    "day": 3,
+    "night": 4,
+    "area": "Cox-Bazar, BD",
+    "img": "https://i.ibb.co/f8Q1qzs/pic7.webp",
+    "img1": "https://i.ibb.co/f8Q1qzs/pic7.webp"
+  },
+  {
+    "id": 8,
+    "title": "Lion, UK",
+    "description": "Far far away, behind the word mountains, far from the countries",
+    "price": 50,
+    "rate": 3,
+    "day": 3,
+    "night": 4,
+    "area": "Cox-Bazar, BD",
+    "img": "https://i.ibb.co/f8Q1qzs/pic7.webp",
+    "img1": "https://i.ibb.co/f8Q1qzs/pic7.webp"
+  },
+  {
+    "id": 9,
+    "title": "Lion, UK",
+    "description": "Far far away, behind the word mountains, far from the countries",
+    "price": 50,
+    "rate": 3,
+    "day": 3,
+    "night": 4,
+    "area": "Cox-Bazar, BD",
+    "img": "https://i.ibb.co/f8Q1qzs/pic7.webp",
+    "img1": "https://i.ibb.co/f8Q1qzs/pic7.webp"
+  }
+]

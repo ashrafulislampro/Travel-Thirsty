@@ -1,0 +1,18 @@
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none !important;
+}
+
+.bar-inner-right,
+.bar-inner-left,
+.bar {
+  background-color: red !important;
+}
+.multi-range-slider .thumb::before {
+  background-color: red !important;
+}
+.multi-range-slider {
+  box-shadow: 1px 1px 4px gray !important;
+  border-radius: 4px !important;
+  border: none !important;
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Paris, Italy",
+    "list": 3,
+    "img": "https://i.ibb.co/Yc2qcF3/pic1.webp"
+  },
+  {
+    "id": 2,
+    "title": "San Francisco, Singapore",
+    "list": 25,
+    "img": "https://i.ibb.co/RNxMFqD/pic2.webp"
+  },
+  {
+    "id": 3,
+    "title": "Tiger, UAS",
+    "list": 13,
+    "img": "https://i.ibb.co/nmkpD32/pic3.webp"
+  },
+  {
+    "id": 4,
+    "title": "Swimon, Hong Kong",
+    "list": 10,
+    "img": "https://i.ibb.co/BtkZXW6/pic4.webp"
+  },
+  {
+    "id": 5,
+    "title": "Luxury, Australia",
+    "list": 21,
+    "img": "https://i.ibb.co/smx6psZ/pic5.webp"
+  },
+  {
+    "id": 6,
+    "title": "Lion, UK",
+    "list": 30,
+    "img": "https://i.ibb.co/f8Q1qzs/pic7.webp"
+  }
+]
